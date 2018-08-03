@@ -9,7 +9,7 @@ You need to swipe to proper direction and avoid making each characters reach the
 
 ***DEMO:***
 
-![Demo](https://github.com/wtrst/LR/blob/master/LR_howToPlay.gif)
+![Demo](https://github.com/wtrst/LR/blob/media/LR_howToPlay.gif)
 
 ## Requirement
 
